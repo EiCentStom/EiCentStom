@@ -19,8 +19,6 @@ He is a widely recognized technical leader in conversational AI and open-source 
 
 Huan is the creator and core developer of [Wechaty](https://github.com/wechaty) [![Wechaty GitHub Stars](https://img.shields.io/github/stars/wechaty/wechaty.svg?style=social&label=)](https://github.com/wechaty/wechaty/stargazers/). Wechaty is a Conversational RPA SDK for chatbot makers. With only six lines of code, you can create a bot on the most popular IMs like [WeChat](https://wechaty.js.org/docs/puppet-providers/xp/), [Whatsapp](https://wechaty.js.org/docs/puppet-providers/whatsapp/), [WeCom](https://wechaty.js.org/docs/puppet-services/wxwork/), [Gitter](https://wechaty.js.org/docs/puppet-providers/gitter/), [QQ](https://wechaty.js.org/docs/puppet-providers/oicq/), [etc.](https://wechaty.js.org/docs/puppet-providers)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wechaty/wechaty&type=Date)](https://star-history.com/#wechaty/wechaty&Date)
-
 Some numbers for the Wechaty project:
 
 - 200+ [Contributors](https://wechaty.js.org/contributors/)
